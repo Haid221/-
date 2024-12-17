@@ -1,11 +1,11 @@
-.textbox {
+.textbox {ログイン↓
     width: 350px;
     height: 40px;
     border-radius: 10px;
     border: 1px solid rgb(145, 145, 145);
 }
 
-.button {
+.button {ログイン！
     width: calc(20% + 30px);
     height: 30px;
     background-color: rgb(105, 230, 121);
